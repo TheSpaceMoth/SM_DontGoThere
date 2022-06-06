@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+  <name>Do Not Go There</name>
+  <author>SpaceMoth</author>
+  <url></url>
+  <packageId>Spacemoth.DontGoThere</packageId>
+  <description>An attempt to stop visitors wandering into dangerous or off limits areas.
+This mod will make guests and traders listen to forbidden doors as long as the faction relations are above -20.
+Works with vanilla traders as well as guests added by the Hospitality mod - No more will guests open the door for raids or take the short cut through insect filled rooms!
+
+Please note that forbidding all paths a trader has will cause them to panic and make their own way, you have been warned!</description>
+  <supportedVersions>
+    <li>1.3</li>
+  </supportedVersions>
+  <modDependencies>
+  </modDependencies>
+  <loadAfter>
+  </loadAfter>
+</ModMetaData>
